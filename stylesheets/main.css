@@ -43,3 +43,7 @@
     -o-transform: rotate(270deg);
     transform: rotate(270deg);
   }
+
+.projectcontainer {
+    justify-content: space-between;
+}
