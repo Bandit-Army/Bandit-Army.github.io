@@ -47,3 +47,7 @@
 .projectcontainer {
     justify-content: space-between;
 }
+
+.form-container {
+    justify-content: flex-end;
+}
