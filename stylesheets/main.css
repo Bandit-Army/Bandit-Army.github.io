@@ -45,7 +45,7 @@
   }
 
 .projectcontainer {
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .form-container {
